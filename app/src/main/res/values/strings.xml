@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Analytics</string>
+    <string name="email">EMAIL</string>
+    <string name="password">Password</string>
+    <string name="title">AnAlYtIcS</string>
+    <string name="login_description">LOGIN</string>
+    <string name="update_description">UPDATE</string>
+    <string name="next_button_description">NEXT</string>
+    <string name="sign_out">SIGN OUT</string>
+    <string name="crash_button_description">Crash The App</string>
+</resources>
